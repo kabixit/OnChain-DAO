@@ -362,7 +362,7 @@ export default function Home() {
           )}
         </div>
         <div>
-          <img className={styles.image} src="https://i.imgur.com/buNhbF7.png" />
+          <p>Made with ❤️ by Kabix</p>
         </div>
       </div>
     </div>
