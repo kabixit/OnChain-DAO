@@ -1,0 +1,10 @@
+CryptoDevsNFT deployed to: 0x647e1c0cF466C43C665F202b1Fc9A45bcC5C0752
+FakeNFTMarketplace deployed to: 0x74F43b976E0cF6222D8a062276a2eaEF182F424D
+CryptoDevsDAO deployed to: 0x126dEc322B7a3c43891770A8F8b9c673A147646d
+
+export const CryptoDevsNFTAddress =
+  "0x647e1c0cF466C43C665F202b1Fc9A45bcC5C0752";
+export const FakeNFTMarketplaceAddress =
+  "0x74F43b976E0cF6222D8a062276a2eaEF182F424D";
+export const CryptoDevsDAOAddress =
+  "0x126dEc322B7a3c43891770A8F8b9c673A147646d";
